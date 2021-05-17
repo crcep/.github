@@ -7,7 +7,7 @@ The program is implemented by companies operating in the Silesian region in Pola
 The CRC program is an offer for active students who are open to acquiring new knowledge and practical skills, which provides unique opportunities for professional development.
 The CRC program gives possibility to gain additional, specialist knowledge in the field of IT and work management systems in large enterprises, learn about new areas of business activity, in order to increase the chances of participants on the labor market!
 
-## Business partners:
+## Business partners
 - [Accenture](https://www.accenture.com), 
 - [EY](https://www.ey.com), 
 - [IBM](https://www.ibm.com), 
