@@ -10,7 +10,7 @@ The CRC program gives possibility to gain additional, specialist knowledge in th
 ## Business partners
 - [Accenture](https://www.accenture.com), 
 - [EY](https://www.ey.com), 
-- [IBM](https://www.ibm.com), 
+- [Kyndryl](https://www.kyndryl.com), 
 - [ING Tech Poland](https://ingtechpoland.com/en)
 
 ---
