@@ -13,10 +13,10 @@ The CRC program gives possibility to gain additional, specialist knowledge in th
 - [IBM](https://www.ibm.com), 
 - [ING Tech Poland](https://ingtechpoland.com/en)
 
-## Links
+---
 
-[CRC at LinkedIn](https://www.linkedin.com/company/corporate-readiness-certificate)
+<a href="https://www.linkedin.com/company/corporate-readiness-certificate"><img align="left" src="https://raw.githubusercontent.com/crcep/.github/main/images/linkedin.png" alt="CRC | LinkedIn" width="21px"/></a>
 
-[CRC at Facebook](https://m.facebook.com/ProgramCRC/)
+<a href="https://www.instagram.com/program_crc/"><img align="left" src="https://raw.githubusercontent.com/crcep/.github/main/images/instagram.png" alt="CRC | Instagram" width="21px"/></a>
 
-[CRC at Instagram](https://www.instagram.com/program_crc/)
+<a href="https://m.facebook.com/ProgramCRC/"><img align="left" src="https://raw.githubusercontent.com/crcep/.github/main/images/facebook.png" alt="CRC | Facebook" width="21px"/></a>
