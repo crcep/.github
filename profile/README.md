@@ -1,5 +1,7 @@
 # Corporate Readiness Certificate
 
+[![Stars from users](https://img.shields.io/github/stars/crcep?label=Stars%20from%20users&style=social)](https://github.com/crcep) 
+
 The Corporate Readiness Certificate is an educational program launched in 2014.
 
 The program is implemented by companies operating in the Silesian region in Poland in close cooperation with the academic community and Universities. The companies cooperating in the project deal with the broadly understood services of the IT industry.
