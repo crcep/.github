@@ -13,7 +13,7 @@ The CRC program gives the possibility to gain additional specialist knowledge in
 - [Accenture](https://www.accenture.com), 
 - [EY](https://www.ey.com), 
 - [Kyndryl](https://www.kyndryl.com), 
-- [ING Tech Poland](https://ingtechpoland.com/en)
+- [ING Hubs Poland](https://inghubspoland.com/en)
 
 ---
 
